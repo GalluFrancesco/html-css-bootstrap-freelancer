@@ -15,7 +15,7 @@
     padding-right: 0;
 }
 
-img{
+.logo{
     width: 200px;
     height: 200px;
 }
@@ -23,5 +23,9 @@ img{
 .riga{
     height: 3px;
     width: 120px;
-    background-color: white;
+    background-color: black;
+}
+
+.arrotonda > .col > img{
+    border-radius: 10px;
 }
