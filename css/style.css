@@ -1,0 +1,21 @@
+.bg-green{
+    background-color: #1ABC9C;
+}
+
+.white{
+    color: white;
+}
+
+.font-08{
+    font-size: 80%;
+}
+
+#no-padding{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
