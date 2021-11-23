@@ -1,9 +1,21 @@
 .bg-green{
-    background-color: #1ABC9C;
+    background-color: #248a75;
+}
+
+.bg-darkblue,
+#bg-darkblue{
+    background-color: #3A546D;
+}
+
+.dark{
+    background-color: #2C3E50;
 }
 
 .white{
     color: white;
+}
+.darkblue{
+    color: #3A546D;
 }
 
 .font-08{
@@ -23,9 +35,22 @@
 .riga{
     height: 3px;
     width: 120px;
-    background-color: black;
+    background-color: white;
 }
 
 .arrotonda > .col > img{
     border-radius: 10px;
+}
+
+.cerchio{
+    border: white 1px solid;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-radius: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: #248a75;
 }
