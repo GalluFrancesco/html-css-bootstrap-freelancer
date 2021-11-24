@@ -48,6 +48,10 @@
     border-radius: 10px;
 }
 
+.centralizza{
+    margin: 0 auto;
+}
+
 .cerchio{
     border: white 1px solid;
     height: 40px;
@@ -67,6 +71,17 @@
 
 .fa-star{
     transform: scale(0.9);
+}
+
+.form-style{
+    border-radius: 0;
+    border:none;
+    border-bottom: lightgrey 1px solid;
+    padding-left: 0;
+}
+
+.altezzta-txt-area{
+    height: 100px;
 }
 
 @media screen and (max-width: 575px) {
